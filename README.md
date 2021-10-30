@@ -5,7 +5,6 @@
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
-- [Video](#video)
 - [youtube](#youtube)
 - [Contact](#contact)
 </br>
@@ -21,13 +20,12 @@ This app is the backend portion of an E-Commerce website. Express.js was used fo
 - node seeds/index.js
 - npm start</br>
 
-
-## Video
-
-
-
 ## youtube
-[youtube link]()
+### A walkthrough video that demonstrates the functionality of the e-commerce back end on my youtube chanel 
+[VSC](https://youtu.be/Zt84_pMJTa0)
+
+[Insomnia](https://youtu.be/9xLIQsZUAyw)
+
 </br>
 ## Contact
 Find me on:
