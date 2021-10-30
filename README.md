@@ -27,9 +27,11 @@ This app is the backend portion of an E-Commerce website. Express.js was used fo
 [Insomnia](https://youtu.be/9xLIQsZUAyw)
 
 </br>
+
 ## Contact
+
 Find me on:
 - GitHub: [raghadmalallah](https://github.com/raghadmalallah)</br>
 - Linkden:[raghadmalallah](https://www.linkedin.com/in/raghad-malallah)
-- Email me with any questions: raghadmalallah@gmail.com
+- Email me with any questions:[raghadmalallah@gmail.com](raghadmalallah@gmail.com)
     
